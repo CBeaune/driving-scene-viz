@@ -23,6 +23,7 @@
   - Graph-based 
 
 # Tools for raster-based representations
+![](assets/img/animation_accessible_lanes.gif)
 
 # Tools for graph-based methods
 
