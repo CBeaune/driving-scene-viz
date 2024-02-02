@@ -23,8 +23,9 @@
   - Graph-based 
 
 # Tools for raster-based representations
-![](assets/img/animation_accessible_lanes.gif)
 ![](assets/img/animation_final_scene.gif)
+![](assets/img/animation_accessible_lanes.gif)
+
 
 # Tools for graph-based methods
 
