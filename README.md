@@ -18,9 +18,9 @@
   stuff here
 
   ### State of the art
-    - Raster-based
-    - Objects-based
-    - Graph-based 
+  - Raster-based
+  - Objects-based
+  - Graph-based 
 
 ## Tools for raster-based representations
 
