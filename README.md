@@ -23,8 +23,10 @@
   - Graph-based 
 
 # Tools for raster-based representations
-![](assets/img/animation_final_scene.gif)
-![](assets/img/animation_accessible_lanes.gif)
+
+<img src="https://cloud.githubusercontent.com/assets/img/animation_final_scene.gif" width="200" height="200">
+<img src="https://cloud.githubusercontent.com/assets/img/animation_accessible_lanes.gif" width="200" height="200">
+
 
 
 # Tools for graph-based methods
